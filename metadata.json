@@ -1,0 +1,6 @@
+{
+  "name": "DM SalesManagement",
+  "description": "Field Sales CRM & Canvasing Monitoring System",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
